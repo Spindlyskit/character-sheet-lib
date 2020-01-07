@@ -1,0 +1,25 @@
+{
+  "name": "character-sheet-lib",
+  "version": "1.0.0",
+  "description": "Provides functions for interacting with D&D data",
+  "main": "./src/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^2.4.0",
+    "eslint": "^6.8.0",
+    "eslint-plugin-ava": "^9.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spindlyskit/character-sheet-lib.git"
+  },
+  "contributors": ["Spindlyskit", "Gforcedev"],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Spindlyskit/character-sheet-lib/issues"
+  },
+  "homepage": "https://github.com/Spindlyskit/character-sheet-lib#readme"
+}
